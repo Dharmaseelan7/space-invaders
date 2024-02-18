@@ -35,7 +35,7 @@ Defend the space from invading aliens by shooting them down before they reach th
 
 4. **Run the Game:**
    ```
-   python space_invaders.py
+   python main.py
    ```
 
 ## Controls
